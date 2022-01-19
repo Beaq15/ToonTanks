@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Program Files\\Epic Games\\UE_4.27\\Projects\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 4.27\\Source\\ToonTanks\\ToonTanks.Build.cs",
+		"C:\\Program Files\\Epic Games\\UE_4.27\\Projects\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 4.27\\Source\\ToonTanks.Target.cs",
+		"C:\\Program Files\\Epic Games\\UE_4.27\\Projects\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 4.27\\Source\\ToonTanksEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.0"
+}
